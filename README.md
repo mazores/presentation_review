@@ -1,3 +1,5 @@
+![TRAA Logo](/images/traa_logo-MASTER.jpg)
+
 # TRAA Midterm Review
 
 Going over some stuff that almost everyone got slightly wrong. Not major stuff, so don't feel bad, but minor stuff we don't want to keep doing.
